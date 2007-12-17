@@ -11,7 +11,6 @@ Source:		%{name}-%{version}-1.tar.bz2
 URL:		http://software.manicsadness.com
 License:	GPLv2+
 Group:		Networking/Chat
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	gtk2-devel pkgconfig
 
 %description
