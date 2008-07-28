@@ -1,6 +1,6 @@
 %define name	lintalk
 %define version	0.4
-%define release %mkrel 4
+%define release %mkrel 6
 
 Name: 	 	%{name}
 Summary: 	Serverless instant messaging for a LAN
