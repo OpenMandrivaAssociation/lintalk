@@ -8,7 +8,7 @@ Version: 	%{version}
 Release: 	%{release}
 
 Source:		%{name}-%{version}-1.tar.bz2
-URL:		http://software.manicsadness.com
+URL:		https://software.manicsadness.com
 License:	GPLv2+
 Group:		Networking/Chat
 BuildRoot:	%{_tmppath}/%{name}-buildroot
